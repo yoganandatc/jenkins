@@ -1,0 +1,24 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-05 09:18:38.895 UTC</timestamp>
+  <md5sum>3c700262a594030f6acb789f26985e57</md5sum>
+  <fileName>Credential id=newkey name=ec2-user (key)</fileName>
+  <usages>
+    <entry>
+      <string>job1</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1214.v1de940103927">
+      <timestamp>1678028600619</timestamp>
+      <nodeName>node1</nodeName>
+      <timestamp0>1678027040646</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1214.v1de940103927">
+      <timestamp>1678028600624</timestamp>
+      <nodeName>node2</nodeName>
+      <timestamp0>1678027040650</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

@@ -1,0 +1,20 @@
+Started at Sun Mar 05 14:24:25 UTC 2023
+Processing job-1
+Offering job-1 to Project Build Discarder
+Processing job1
+Offering job1 to Project Build Discarder
+Processing job2
+Offering job2 to Project Build Discarder
+Finished at Sun Mar 05 14:24:25 UTC 2023. 2ms
+Started at Sun Mar 05 15:24:25 UTC 2023
+Processing job-1
+Offering job-1 to Project Build Discarder
+Processing job1
+Offering job1 to Project Build Discarder
+Processing job2
+Offering job2 to Project Build Discarder
+Processing new-job
+Offering new-job to Project Build Discarder
+Processing new-job2
+Offering new-job2 to Project Build Discarder
+Finished at Sun Mar 05 15:24:25 UTC 2023. 2ms

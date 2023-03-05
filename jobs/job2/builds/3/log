@@ -1,0 +1,8 @@
+Started by user [8mha:////4J8e2cgsYnplMCtoprugm7oOENH2B+hOvzILIjOSiiA1AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/job2
+[job2] $ /bin/sh -xe /tmp/jenkins3035010983856457959.sh
++ cd /home/ec2-user/git/test1/big2.sh 3 5
+/tmp/jenkins3035010983856457959.sh: line 2: cd: too many arguments
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
